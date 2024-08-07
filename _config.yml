@@ -38,7 +38,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minima
 plugins:
 #theme: jekyll-theme-basically-basic
 #plugins: # previsously gems
