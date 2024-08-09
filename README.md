@@ -1,9 +1,3 @@
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-
 # page
 
 ```js
